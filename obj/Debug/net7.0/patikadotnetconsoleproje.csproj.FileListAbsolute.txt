@@ -1,0 +1,15 @@
+C:\Users\meshu\Desktop\pratikler\degisken\patikadotnetconsoleproje\obj\Debug\net7.0\patikadotnetconsoleproje.csproj.AssemblyReference.cache
+C:\Users\meshu\Desktop\pratikler\degisken\patikadotnetconsoleproje\obj\Debug\net7.0\patikadotnetconsoleproje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meshu\Desktop\pratikler\degisken\patikadotnetconsoleproje\obj\Debug\net7.0\patikadotnetconsoleproje.AssemblyInfoInputs.cache
+C:\Users\meshu\Desktop\pratikler\degisken\patikadotnetconsoleproje\obj\Debug\net7.0\patikadotnetconsoleproje.AssemblyInfo.cs
+C:\Users\meshu\Desktop\pratikler\degisken\patikadotnetconsoleproje\obj\Debug\net7.0\patikadotnetconsoleproje.csproj.CoreCompileInputs.cache
+C:\Users\meshu\Desktop\pratikler\degisken\patikadotnetconsoleproje\bin\Debug\net7.0\patikadotnetconsoleproje.exe
+C:\Users\meshu\Desktop\pratikler\degisken\patikadotnetconsoleproje\bin\Debug\net7.0\patikadotnetconsoleproje.deps.json
+C:\Users\meshu\Desktop\pratikler\degisken\patikadotnetconsoleproje\bin\Debug\net7.0\patikadotnetconsoleproje.runtimeconfig.json
+C:\Users\meshu\Desktop\pratikler\degisken\patikadotnetconsoleproje\bin\Debug\net7.0\patikadotnetconsoleproje.dll
+C:\Users\meshu\Desktop\pratikler\degisken\patikadotnetconsoleproje\bin\Debug\net7.0\patikadotnetconsoleproje.pdb
+C:\Users\meshu\Desktop\pratikler\degisken\patikadotnetconsoleproje\obj\Debug\net7.0\patikadotnetconsoleproje.dll
+C:\Users\meshu\Desktop\pratikler\degisken\patikadotnetconsoleproje\obj\Debug\net7.0\refint\patikadotnetconsoleproje.dll
+C:\Users\meshu\Desktop\pratikler\degisken\patikadotnetconsoleproje\obj\Debug\net7.0\patikadotnetconsoleproje.pdb
+C:\Users\meshu\Desktop\pratikler\degisken\patikadotnetconsoleproje\obj\Debug\net7.0\patikadotnetconsoleproje.genruntimeconfig.cache
+C:\Users\meshu\Desktop\pratikler\degisken\patikadotnetconsoleproje\obj\Debug\net7.0\ref\patikadotnetconsoleproje.dll
